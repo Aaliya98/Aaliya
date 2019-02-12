@@ -1,7 +1,7 @@
-z=int(input())
-if z>0:
-	print("positive")
-elif z==0:
-	print("zero")
+it=int(input())
+if it>0:
+	print("Positive")
+elif it==0:
+	print("Zero")
 else:
-	print("negative")
+	print("Negative")
