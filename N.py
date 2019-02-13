@@ -6,4 +6,4 @@ else:
    while(z > 0):
        sum += z
        z -= 1
-   print("The sum is",sum)
+   print()
